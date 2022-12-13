@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "monthVisited": "September 23, 2019",
+      "typeOfVisit": "Indoor Dining",
+      "title": "Wonderful Food ",
+      "review": "Wonderdul customer service and amazing food!!"
+    },
+    {
+      "id": 2,
+      "monthVisited": "October 4, 2019",
+      "typeOfVisit": "Takeout",
+      "title": "Fast Service",
+      "review": "Very fast service and hot food, friendly quick service."
+    },
+    {
+      "id": 3,
+      "monthVisited": "January 13th, 2020",
+      "typeOfVisit": "Indoor Dining",
+      "title": "Birthday celebration",
+      "review": "I celebrated my birthday and everything went perfect."
+    },
+    {
+      "id": 4,
+      "monthVisited": "March 4th, 2020",
+      "typeOfVisit": "Outdoor Dining",
+      "title": "Seabass was amazing",
+      "review": "We had the seabass oscar, and it was so delicious!"
+    },
+    {
+      "id": 5,
+      "monthVisited": "June 22, 2020",
+      "typeOfVisit": "Outdoor Dining",
+      "title": "Long wait",
+      "review": "We waited 2 hours to be sat, worth the wait. Food was amazing"
+    }
+  ]
